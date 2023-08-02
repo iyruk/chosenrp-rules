@@ -54,7 +54,7 @@ We understand accidents happen and you may slip with a persons name or other cha
 
 * Aircraft carriers and Fort Zancudo (This includes the military vehicles contained within)
 
-
-
-
+{% hint style="info" %}
+If you understand these rules, head to our discord and type `!passport` in the "🤖│bot-commands" channel to become a citizen
+{% endhint %}
 
